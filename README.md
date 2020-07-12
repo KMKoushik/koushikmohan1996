@@ -7,5 +7,6 @@
 💭 Opinions
   - Monoliths > Microservice
   - Ruby on rails is not dead
+  - E2E tests > Unit tests
   - React is 💜
 
